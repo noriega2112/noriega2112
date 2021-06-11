@@ -41,7 +41,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://noriega2112.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-noriega2112.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://edwinnoriega.xyz/"><img alt="Website" src="https://img.shields.io/badge/Website-edwinnoriega.xyz-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/edwin-noriega-220396159/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Edwin%20Noriega-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:adolfonoriega9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adolfonoriega9@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
