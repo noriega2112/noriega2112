@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at Universidad de San Pedro Sula.
-- 💼 &nbsp; Working as a Web Developer at RocketHN.
+- 💼 &nbsp; Working as a Web Developer at Dualtech.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Algorithms.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -17,7 +17,6 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
