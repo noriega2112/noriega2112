@@ -43,5 +43,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/edwin-noriega-220396159/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Edwin%20Noriega-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:e@gnoriega.dev"><img alt="Email" src="https://img.shields.io/badge/Email-adolfonoriega9@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:e@noriega.dev"><img alt="Email" src="https://img.shields.io/badge/Email-e@noriega.dev-blue?style=flat-square&logo=gmail"></a>
 </p>
